@@ -53,99 +53,9 @@
               </li>
               </ul>
             </div>
-            <div class="wrap" style="padding: 90px 0px 0px 0px">
-          		<div class="container">
-          			<div class="row">
-          				<div id="availability">
-          					<form action="#">
-          						<div class="a-col">
-          							<section>
-          								<select class="cs-select cs-skin-border">
-          									<option value="" disabled selected>Select</option>
-          									<option>ATV Adventure</option>
-          									<option>River Tubing</option>
-          									<option>Swing</option>
-                            <option>Cycling</option>
-                            <option>SPA & Reflexy</option>
-                            <option>Restaurant</option>
-          								</select>
-          							</section>
-          						</div>
-          						<div class="a-col alternate">
-          							<div class="input-field">
-          								<label for="date-start">Check In</label>
-          								<input type="text" class="form-control" id="date-start" />
-          							</div>
-          						</div>
-                      <div class="a-col">
-          							<section>
-          								<select class="cs-select cs-skin-border">
-          									<option value="" disabled selected>Adult(s)</option>
-          									<option>1</option>
-          									<option>2</option>
-          									<option>3</option>
-                            <option>4</option>
-                            <option>5</option>
-                            <option>6</option>
-          								</select>
-          							</section>
-          						</div>
-                      <div class="a-col">
-          							<section>
-          								<select class="cs-select cs-skin-border">
-          									<option value="" disabled selected>Children</option>
-          									<option>1</option>
-          									<option>2</option>
-          									<option>3</option>
-                            <option>4</option>
-                            <option>5</option>
-                            <option>6</option>
-          								</select>
-          							</section>
-          						</div>
-                      <div class="a-col">
-          							<section>
-          								<select class="cs-select cs-skin-border">
-          									<option value="" disabled selected>Infant</option>
-          									<option>1</option>
-          									<option>2</option>
-          									<option>3</option>
-                            <option>4</option>
-                            <option>5</option>
-                            <option>6</option>
-          								</select>
-          							</section>
-          						</div>
-                      <div class="a-col">
-          							<section>
-          								<select class="cs-select cs-skin-border">
-          									<option value="" disabled selected>Family</option>
-          									<option>1</option>
-          									<option>2</option>
-          									<option>3</option>
-                            <option>4</option>
-                            <option>5</option>
-                            <option>6</option>
-          								</select>
-          							</section>
-          						</div>
-          						<div class="a-col action">
-          							<a href="#">
-          								<span>Check</span>
-          								Availability
-          							</a>
-          						</div>
-          					</form>
-          				</div>
-          			</div>
-          		</div>
-    	       </div>
-
         </aside>
 
-        <br><br><br><br><br><br>
-
-
+        <!-- <br><br><br><br><br><br><br><br><br><br><br> -->
         <div id="hotel-facilities">
       		<div class="container">
       			<div class="row">
@@ -297,48 +207,12 @@
       		</div>
       	</div>
 
-        <!-- <div id="testimonial">
-      		<div class="container">
-      			<div class="row">
-      				<div class="col-md-12">
-      					<div class="section-title text-center">
-      						<h2>Happy Customer Says...</h2>
-      					</div>
-      				</div>
-      			</div>
-      			<div class="row">
-      				<div class="col-md-4">
-      					<div class="testimony">
-      						<blockquote>
-      							&ldquo;If you’re looking for a top quality hotel look no further. We were upgraded free of charge to the Premium Suite, thanks so much&rdquo;
-      						</blockquote>
-      						<p class="author"><cite>John Doe</cite></p>
-      					</div>
-      				</div>
-      				<div class="col-md-4">
-      					<div class="testimony">
-      						<blockquote>
-      							&ldquo;Me and my wife had a delightful weekend get away here, the staff were so friendly and attentive. Highly Recommended&rdquo;
-      						</blockquote>
-      						<p class="author"><cite>Rob Smith</cite></p>
-      					</div>
-      				</div>
-      				<div class="col-md-4">
-      					<div class="testimony">
-      						<blockquote>
-      							&ldquo;If you’re looking for a top quality hotel look no further. We were upgraded free of charge to the Premium Suite, thanks so much&rdquo;
-      						</blockquote>
-      						<p class="author"><cite>Jane Doe</cite></p>
-      					</div>
-      				</div>
-      			</div>
-      		</div>
-      	</div> -->
 
+        <div class="row">
+          <h1>hay</h1>
+        </div>
 
       </div>
     </div>
-
-
   </body>
 </html>

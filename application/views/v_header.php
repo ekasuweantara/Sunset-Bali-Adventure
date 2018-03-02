@@ -10,9 +10,9 @@
   					<!-- <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a> -->
   					<nav id="fh5co-menu-wrap" role="navigation">
   						<ul class="sf-menu" id="fh5co-primary-menu">
-  							<li><a class="active" href="index.html">Home</a></li>
-                <li><a href="#">Bali Sunset</a></li>
-  							<li><a href="services.html">Services</a></li>
+  							<li class="upper-links"><a class="active" href="<?php echo site_url('Welcome'); ?>">Home</a></li>
+                <li><a href="<?php echo site_url('About'); ?>">About</a></li>
+  							<li><a href="<?php echo site_url('Service'); ?>">Services</a></li>
                 <li><a href="#">Boking</a></li>
                 <li><a href="#">F.A.Q</a></li>
                 <li><a href="#">Comments</a></li>

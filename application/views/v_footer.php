@@ -1,10 +1,10 @@
 <footer id="footer" class="fh5co-bg-color">
 		<div class="container">
-			<div class="row">
+			<!-- <div class="row">
 				<div class="col-md-3">
 					<input type="text" name="tgl_check_in" value="">
 				</div>
-			</div>
+			</div> -->
 			<div class="row">
 				<div class="col-md-3">
 					<div class="copyright">
