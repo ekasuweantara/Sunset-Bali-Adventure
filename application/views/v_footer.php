@@ -40,6 +40,16 @@
 							<form action="#" id="form-subscribe">
 								<div class="form-field">
 									<input type="email" placeholder="Email Address" id="email">
+								</div>
+								<br>
+								<div class="form-field">
+									<input type="text" placeholder="First Name" id="first_name">
+								</div>
+								<br>
+								<div class="form-field">
+									<input type="text" placeholder="Enter your Question" id="question">
+								</div>
+								<div class="form-field">
 									<input type="submit" id="submit" value="Send">
 								</div>
 							</form>

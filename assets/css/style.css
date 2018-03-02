@@ -8827,6 +8827,16 @@ input[type="text"] {
   line-height: 30px;
   width: 100%;
 }
+
+#footer #form-subscribe input[type="text"] {
+  background: #fff;
+  padding: 5px 70px 5px 15px;
+  border: none;
+  height: 45px;
+  line-height: 30px;
+  width: 100%;
+}
+
 #footer #form-subscribe input[type="submit"] {
   background: #3c4146;
   border: none;
