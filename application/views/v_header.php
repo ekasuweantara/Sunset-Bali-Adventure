@@ -13,7 +13,7 @@
   							<li class="upper-links"><a class="active" href="<?php echo site_url('Welcome'); ?>">Home</a></li>
                 <li><a href="<?php echo site_url('About'); ?>">About</a></li>
   							<li><a href="<?php echo site_url('Service'); ?>">Services</a></li>
-                <li><a href="#">Boking</a></li>
+  							<li><a href="<?php echo site_url('Booking'); ?>">Booking</a></li>
                 <li><a href="#">F.A.Q</a></li>
                 <li><a href="#">Comments</a></li>
   							<li><a href="contact.html">Contact</a></li>

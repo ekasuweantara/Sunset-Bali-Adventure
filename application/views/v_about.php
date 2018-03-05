@@ -8,7 +8,7 @@
     <div id="fh5co-wrapper">
       <div id="fh5co-page">
 
-        <aside id="fh5co-hero" class="js-fullheight">
+        <!-- <aside id="fh5co-hero" class="js-fullheight">
           <div class="flexslider js-fullheight">
             <ul class="slides">
               <li style="background-image: url(<?php echo base_url('/assets/images/slider1.jpg'); ?>);">
@@ -52,7 +52,7 @@
               </li>
               </ul>
             </div>
-        </aside>
+        </aside> -->
 
         <div id="featured-hotel" class="fh5co-bg-color">
           <div class="container">

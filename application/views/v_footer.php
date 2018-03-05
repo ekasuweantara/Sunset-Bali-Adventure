@@ -24,9 +24,10 @@
 							</ul>
 						</div>
 						<div class="col-md-3">
-							<h3>Our Facilities</h3>
+							<h3>Quick Response</h3>
 							<ul class="link">
-								<li><a href="#">Resturant</a></li>
+								<p>For Quick Response send your booking detail to.</p>
+								<li>Resturant</li>
 								<li><a href="#">Bars</a></li>
 								<li><a href="#">Pick-up</a></li>
 								<li><a href="#">Swimming Pool</a></li>
@@ -35,8 +36,8 @@
 							</ul>
 						</div>
 						<div class="col-md-6">
-							<h3>Subscribe</h3>
-							<p>Sed cursus ut nibh in semper. Mauris varius et magna in fermentum. </p>
+							<h3>Email Us</h3>
+							<p>Email us for quick response. </p>
 							<form action="#" id="form-subscribe">
 								<div class="form-field">
 									<input type="email" placeholder="Email Address" id="email">
@@ -49,8 +50,9 @@
 								<div class="form-field">
 									<input type="text" placeholder="Enter your Question" id="question">
 								</div>
+								<br>
 								<div class="form-field">
-									<input type="submit" id="submit" value="Send">
+									<input type="submit" id="submit" value="Send Email">
 								</div>
 							</form>
 						</div>
