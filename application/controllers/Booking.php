@@ -8,7 +8,6 @@ class Booking extends CI_Controller {
 
 			$this->load->view('v_style', $data);
 			$this->load->view('v_script');
-			$this->load->view('v_header');
 			$this->load->view('v_booking');
 			$this->load->view('v_footer');
 

@@ -33,7 +33,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <link href="<?php echo base_url() ?>assets/css/bootstrap.min.css" rel="stylesheet">
 
-    <style rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/style_booking.css" rel="stylesheet">
 
 
     </style>
