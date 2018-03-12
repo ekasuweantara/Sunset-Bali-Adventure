@@ -13,27 +13,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <title><?php echo $title; ?></title>
 
-    <link href="<?php echo base_url() ?>assets/css/superfish.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/animate.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/animate.min.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/bootstrap-theme.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/font-awesome.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/isotope.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/jquery.bxslider.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/overwrite.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/prettyPhoto.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>/assets/css/style.css" rel="stylesheet">
 
-    <link href="<?php echo base_url() ?>assets/css/bootstrap-datepicker.min.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/cs-select.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/cs-skin-border.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/themify-icons.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/flaticon.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/icomoon.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/flexslider.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/style.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/bootstrap.min.css" rel="stylesheet">
-
-    <link href="<?php echo base_url() ?>assets/css/style_booking.css" rel="stylesheet">
 
 
     </style>
